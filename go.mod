@@ -1,4 +1,4 @@
-module github.com/gobuffalo/buffalo
+module github.com/singlemusic/buffalo
 
 go 1.15
 
@@ -7,6 +7,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.9.0
 	github.com/gobuffalo/attrs v1.0.0
+	github.com/gobuffalo/buffalo v0.16.21
 	github.com/gobuffalo/buffalo-pop/v2 v2.0.4
 	github.com/gobuffalo/clara/v2 v2.0.2
 	github.com/gobuffalo/envy v1.9.0
@@ -21,7 +22,7 @@ require (
 	github.com/gobuffalo/nulls v0.2.0
 	github.com/gobuffalo/packd v1.0.0
 	github.com/gobuffalo/packr/v2 v2.8.0
-	github.com/gobuffalo/plush/v4 v4.0.0
+	github.com/gobuffalo/plush/v4 v4.1.3
 	github.com/gobuffalo/pop/v5 v5.0.11
 	github.com/gobuffalo/tags/v3 v3.1.0
 	github.com/google/go-cmp v0.4.0
