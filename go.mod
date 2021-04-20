@@ -21,7 +21,7 @@ require (
 	github.com/gobuffalo/nulls v0.2.0
 	github.com/gobuffalo/packd v1.0.0
 	github.com/gobuffalo/packr/v2 v2.8.0
-	github.com/gobuffalo/plush/v4 v4.0.0
+	github.com/gobuffalo/plush/v4 v4.1.3
 	github.com/gobuffalo/pop/v5 v5.0.11
 	github.com/gobuffalo/tags/v3 v3.1.0
 	github.com/google/go-cmp v0.4.0
